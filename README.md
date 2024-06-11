@@ -1,4 +1,4 @@
-# Docker+PHP8.2+nginx+SQLite
+# Docker+PHP8.2+nginx+SQLite+Laravel-latest
 ### Поднимаем контейнеры
 ```shell
 docker-compose up -d
